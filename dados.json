@@ -1,5 +1,5 @@
  [
-   "experiencias":[
+   "experiencias"[
     {
       "nomeEmpresa": "InfoSolutions Consultoria em Informática",
       "periodo" : "11/2016 - 06/2018",
@@ -13,7 +13,7 @@
       "descricao" : "Auxiliava no controle interno de instrumentos, criação de planilhas e inspeções de peças"
     }
    ],
-   "habilidades":[
+   "habilidades"[
     {
       "habilidade": "Edição de imagem",
       "nivel" : "Intermediário"

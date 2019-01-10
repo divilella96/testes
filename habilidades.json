@@ -1,10 +1,20 @@
-[
+[   
+   
     {
-        "habilidade": "Edição de imagem",
+        "habilidade": "Pacote Office (Word, Excel, PowerPoint)",
+        "nivel": "Avançado"
+    },
+    {
+        "habilidade": "Edição de imagem (PhotoshopCS6)",
         "nivel": "Intermediário"
     },
     {
-        "habilidade": "Edição de imagem",
+        "habilidade": "Edição de Vídeo (Vegas Pro 13)",
         "nivel": "Intermediário"
+    },
+    {
+        "habilidade": "Latex",
+        "nivel": "Basico"
     }
+    
 ]

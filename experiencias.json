@@ -1,0 +1,14 @@
+[
+  {
+    "nomeEmpresa": "InfoSolutions Consultoria em Informática",
+    "periodo" : "11/2016 - 06/2018",
+    "cargo" : "Programador Junior",
+    "descricao" : "Gestão, Complementação e Documentação. Desenvolvimento Web e Desktop na plataforma de desenvolvimento Windev, Webdev e Windev Mobile da PC Soft."
+  },
+  {
+    "nomeEmpresa": "Torcomp Usinagem Componente",
+    "periodo" : "05/2012 - 12/2013",
+    "cargo" : "Jovem Aprendiz",
+    "descricao" : "Auxiliava no controle interno de instrumentos, criação de planilhas e inspeções de peças"
+  }
+]
